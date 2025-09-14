@@ -1,0 +1,17 @@
+UrbanRoots/
+│
+├── backend/        # Backend (Node.js + Express + MongoDB)
+│   ├── models/     # Mongoose Schemas
+│   ├── routes/     # API Routes
+│   ├── controllers/# Business Logic
+│   ├── config/     # Database connection
+│   └── server.js   # Main server file
+│
+├── frontend/       # Frontend (HTML, CSS, JS)
+│   ├── index.html
+│   ├── fruits.html
+│   ├── vegetables.html
+│   ├── style.css
+│   └── script.js
+│
+└── README.md
