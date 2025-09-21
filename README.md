@@ -22,18 +22,18 @@ Urban Roots is a full-stack responsive website designed to spread awareness abou
 
 Frontend:
 
-HTML
-
-CSS
-
-JavaScript
+    HTML
+    
+    CSS
+    
+    JavaScript
 
 Backend:
 
-Node.js
-
-Express.js
-
-MongoDB (Mongoose)
-
-JWT Authentication
+    Node.js
+    
+    Express.js
+    
+    MongoDB (Mongoose)
+    
+    JWT Authentication
