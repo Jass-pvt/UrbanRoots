@@ -12,8 +12,12 @@ UrbanRoots/
 │   ├── index.html
 │   ├── fruits.html
 │   ├── vegetables.html
+│   ├── nuts.html
+│   └── script.js
+│   ├── vegetables.html
 │   ├── style.css
 │   └── script.js
+│
 │
 └── README.md
 
