@@ -29,9 +29,3 @@ Frontend:
     JavaScript
 
 Backend:
-
-    Node.js
-    
-    MongoDB (Mongoose)
-    
-    JWT Authentication
